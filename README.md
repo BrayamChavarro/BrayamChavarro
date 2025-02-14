@@ -7,6 +7,6 @@
 <img src="https://img.shields.io/badge/PYTHON%F0%9F%90%8D-4765BF?style=flat">
 </div>
 <h3> Sobre mi </h3>
-
+##Sobre mi
 - ✏️ Estudiante de Ingenieria de Software ⭐ 
 - 💻 Tecnico en Mantenimiento de equipos de computo
