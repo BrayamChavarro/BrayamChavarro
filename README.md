@@ -18,7 +18,7 @@
 - 💻 Tecnico en Mantenimiento de equipos de computo
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Estadisticas
 
 <p align="center">
 <a href="https://github.com/BrayamChavarro">
