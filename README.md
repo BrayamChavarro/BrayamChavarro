@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/JAVA%E2%9A%99%EF%B8%8F-red?style=flat">
 <img src="https://img.shields.io/badge/PYTHON%F0%9F%90%8D-4765BF?style=flat">
 </div>
-  ## Sobre mi
+
+##Sobre mi
 
 - ✏️ Estudiante de Ingenieria de Software ⭐ 
 - 💻 Tecnico en Mantenimiento de equipos de computo
