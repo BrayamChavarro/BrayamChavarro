@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA%E2%9A%99%EF%B8%8F-red?style=flat">
 <img src="https://img.shields.io/badge/PYTHON%F0%9F%90%8D-4765BF?style=flat">
-<img src="https://img.shields.io/badge/HTML5%EF%B8%8F%E2%83%A3-F57F48?style=flat">
+<img src="https://img.shields.io/badge/HTML%F0%9F%94%A8-F57F48?style=flat">
 </div>
 
 
