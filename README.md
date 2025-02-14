@@ -3,4 +3,7 @@
 </div>
 <img src="https://i.imgur.com/1cxXnd7.jpeg">
 
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+## Sobre mi
+
+- ✏️ Estudiante de Ingenieria de Software ⭐ 
+- 📲 Tecnico en Mantenimiento de equipos de computo
