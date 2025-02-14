@@ -6,4 +6,4 @@
 ## Sobre mi
 
 - ✏️ Estudiante de Ingenieria de Software ⭐ 
-- 🧑‍💻 Tecnico en Mantenimiento de equipos de computo
+- 💻 Tecnico en Mantenimiento de equipos de computo
