@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/%F0%9F%90%8D-PYTHON-blue">
 <img src="https://img.shields.io/badge/%F0%9F%94%A8-HTML-F57F48">
 <img src="https://img.shields.io/badge/%F0%9F%96%8C%EF%B8%8F-CSS-162185">
+<img src="https://img.shields.io/badge/🐧-CSS-437F2D">
+  
 </div>
 
 
