@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Brayam Chavarro 👋</h1>
 </div>
 <img src="https://i.imgur.com/1cxXnd7.jpeg">
-
+https://img.shields.io/badge/JAVA%E2%9A%99%EF%B8%8F-red
 ## Sobre mi
 
 - ✏️ Estudiante de Ingenieria de Software ⭐ 
