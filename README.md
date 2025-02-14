@@ -16,7 +16,7 @@
 
 - ✏️ Estudiante de Ingenieria de Software ⭐ 
 - 💻 Tecnico en Mantenimiento de equipos de computo
-- 👾 Iniciando en el mundo de la ciberseguridad "HackTheBox"
+- 👨‍💻 Iniciando en el mundo de la ciberseguridad "HackTheBox"
 
 
 ### ⚙️ &nbsp;GitHub Estadisticas
