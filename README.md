@@ -38,8 +38,8 @@
 ## 🎯 Proyectos Destacados
 
 <div align="center">
-<a href="https://github.com/brayamchavarro.github.io">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BrayamChavarro&repo=portafolio.github.io&theme=algolia" />
+<a href="https://brayamchavarro.github.io/">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BrayamChavarro&repo=brayamchavarro.github.io&theme=algolia" />
 </a>
 </div>
 
