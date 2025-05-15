@@ -38,12 +38,6 @@
 ## 🎯 Proyectos Destacados
 
 <div align="center">
-<a href="https://github.com/brayamchavarro/gestask">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BrayamChavarro&repo=gestask&theme=algolia" />
-</a>
-<a href="https://github.com/brayamchavarro/project-ai-ccb">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BrayamChavarro&repo=project-ai-ccb&theme=algolia" />
-</a>
 <a href="https://github.com/brayamchavarro/portafolio.github.io">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BrayamChavarro&repo=portafolio.github.io&theme=algolia" />
 </a>
