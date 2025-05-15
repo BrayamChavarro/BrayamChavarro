@@ -41,6 +41,12 @@
 <a href="https://brayamchavarro.github.io/">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BrayamChavarro&repo=brayamchavarro.github.io&theme=algolia" />
 </a>
+
+  <br />
+<a href="https://brayamchavarro.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-🌐_Ver_Demo-4F94EF?style=for-the-badge" />
+</a>
+
 </div>
 
 
